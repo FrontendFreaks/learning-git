@@ -15,3 +15,6 @@ Ishaanvi Solutions
 ## Education Experience
 
 - BTech from NSUT
+
+## Skills
+- C, C++, JavaScript
