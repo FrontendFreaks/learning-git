@@ -18,3 +18,4 @@ Ishaanvi Solutions
 
 ## Skills
 - C, C++, JavaScript
+- HTML, CSS, ReactJS
