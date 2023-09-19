@@ -6,3 +6,5 @@ I am learning Web Development From Vishal Rajput
 - [shivamkumar-007](https://github.com/shivamkumar-007)
 - [subha-guchait](https://github.com/subha-guchait)
 - [kashish119](https://github.com/kashish119)
+- [DukeHades](https://github.com/DukeHades)
+  
