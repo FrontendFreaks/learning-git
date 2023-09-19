@@ -7,3 +7,5 @@ I am learning Web Development From Vishal Rajput
 - [subha-guchait](https://github.com/subha-guchait)
 - [KartikeyTiwari121](https://github.com/KartikeyTiwari121)
 - [kashish119](https://github.com/kashish119)
+- [DukeHades](https://github.com/DukeHades)
+  
