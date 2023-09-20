@@ -13,3 +13,4 @@ I am learning [Web Development](https://www.youtube.com/playlist?list=PLSH9gf0XE
 - [jayant-baid](https://github.com/jayant-baid)
 
 # skills to learn
+- HTML
