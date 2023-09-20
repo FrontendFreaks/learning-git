@@ -12,4 +12,4 @@ I am learning [Web Development](https://www.youtube.com/playlist?list=PLSH9gf0XE
 - [saikumarseepana](https://github.com/saikumarseepana)
 - [jayant-baid](https://github.com/jayant-baid)
 
-# Things to learn
+# skills to learn
