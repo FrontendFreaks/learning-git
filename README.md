@@ -9,3 +9,4 @@ I am learning Web Development From Vishal Rajput
 - [kashish119](https://github.com/kashish119)
 - [DukeHades](https://github.com/DukeHades)
 - [gagandeepsingh101](https://github.com/gagandeepsingh101)  
+- [taraksh01](https://github.com/taraksh01)
