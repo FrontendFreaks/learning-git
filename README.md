@@ -1,8 +1,8 @@
-I am learning Web Development From Vishal Rajput
+I am learning [Web Development](https://www.youtube.com/playlist?list=PLSH9gf0XETounpNfmhk3oK1iHw8oGKdzQ) From Vishal Rajput for free of cost
+
+# Students 
 
 - [Vishal-raj-1](https://github.com/Vishal-raj-1)
-- SFAS
-- WRWR
 - [shivamkumar-007](https://github.com/shivamkumar-007)
 - [subha-guchait](https://github.com/subha-guchait)
 - [KartikeyTiwari121](https://github.com/KartikeyTiwari121)
@@ -13,3 +13,4 @@ I am learning Web Development From Vishal Rajput
 - [jayant-baid](https://github.com/jayant-baid)
 - [Aayush Paigwar](https://github.com/AayushPaigwar)
 
+# skills to learn
