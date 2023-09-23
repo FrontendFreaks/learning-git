@@ -1,6 +1,6 @@
 I am learning [Web Development](https://www.youtube.com/playlist?list=PLSH9gf0XETounpNfmhk3oK1iHw8oGKdzQ) From Vishal Rajput for free of cost
 
-# Students 
+# Students Name
 
 - [Vishal-raj-1](https://github.com/Vishal-raj-1)
 - [shivamkumar-007](https://github.com/shivamkumar-007)
@@ -11,5 +11,6 @@ I am learning [Web Development](https://www.youtube.com/playlist?list=PLSH9gf0XE
 - [gagandeepsingh101](https://github.com/gagandeepsingh101)
 - [saikumarseepana](https://github.com/saikumarseepana)
 - [jayant-baid](https://github.com/jayant-baid)
+- [Pri-Narang](https://github.com/Pri-Narang)
 
 # skills to learn
