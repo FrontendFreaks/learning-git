@@ -1,4 +1,4 @@
-I am learning [Web Development](https://www.youtube.com/playlist?list=PLSH9gf0XETounpNfmhk3oK1iHw8oGKdzQ) From Vishal Rajput for free of cost
+I am learning [Web Development](https://www.youtube.com/playlist?list=PLSH9gf0XETounpNfmhk3oK1iHw8oGKdzQ) From Vishal Rajput for absolutely free of cost
 
 # Students 
 
@@ -12,5 +12,10 @@ I am learning [Web Development](https://www.youtube.com/playlist?list=PLSH9gf0XE
 - [saikumarseepana](https://github.com/saikumarseepana)
 - [jayant-baid](https://github.com/jayant-baid)
 - [Himanshurajput757](https://github.com/Himanshurajput757)
+- [anamika133m](https://github.com/anamika133m)
 
+
+  
 # skills to learn
+- HTML
+- CSS
