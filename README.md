@@ -13,7 +13,9 @@ I am learning [Web Development](https://www.youtube.com/playlist?list=PLSH9gf0XE
 - [jayant-baid](https://github.com/jayant-baid)
 - [anamika133m](https://github.com/anamika133m)
 - [g-rashmi](https://github.com/g-rashmi) 
+- [NIKO](https://github.com/NIKO455)
   
 # skills to learn
 - HTML
 - CSS
+
