@@ -23,3 +23,8 @@ I am learning [Web Development](https://www.youtube.com/playlist?list=PLSH9gf0XE
 -css
 -React
 
+# backend Skills
+-Node.js
+-MongoDb
+-Postman
+-Cloudinary
